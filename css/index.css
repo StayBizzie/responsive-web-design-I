@@ -94,9 +94,27 @@ margin:0 50%;
 background-color: lightblue;
 }
 
-/*.section-a
-.about
-.section-b
-.section-c
-.contact
-.copyright
+.section-a{
+    background-color: rgb(27, 77, 94);
+
+}
+.about{
+    background-color: rgb(233, 151, 165);
+
+}
+.section-b{
+    background-color: rgb(210, 230, 173);
+
+}
+.section-c{
+    background-color: rgb(87, 192, 143);
+
+}
+.contact{
+    background-color: rgb(211, 111, 178);
+
+}
+.copyright{
+    background-color: rgb(162, 247, 176);
+
+}

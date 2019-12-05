@@ -67,33 +67,34 @@ h1, h2, h3, h4, h5 {
 nav a {
 
 	display:inline-block;
-    margin: 0 50px;
-    text-decoration-color: grey;
+    margin: 0 5%;
+    padding: 20px 0;
 }
+.title{
+display:inline-block;
+font-size:75px;
+border: 1px;
+padding:1px;
+margin:0 20%;
+
+}
+
 .get {
-    text-align: center;
-    border: 1px;
+display:inline-block;
+border: 1px solid black;
+font-size:25px;
+margin:0 25%;
 }
 
-.title {
-	display:inline-block;
-	
+.title-image{
+display: inline-block;
+margin:0 50%;
 
 }
-.title h1 {
-	line-height:50px;
-	font-size:50px;
-	display:inline-block;
-    width:50%;
-    text-align: center; 
-}
-.section-a {
-	
-#features {
-	display:inline-block;
-	width:50%;
-}
-#about {
-	display:inline-block;
-	width:50px;
-}
+
+/*.section-a
+.about
+.section-b
+.section-c
+.contact
+.copyright

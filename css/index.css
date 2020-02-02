@@ -84,7 +84,6 @@ time,
 mark,
 audio,
 video {
-  margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
@@ -148,6 +147,7 @@ h5 {
 /* Your code starts here! */
 * {
   max-width: 80%;
+  margin: 0 auto;
 }
 nav {
   display: flex;
@@ -165,7 +165,6 @@ nav a {
   font-size: 75px;
   border: 1px;
   padding: 1px;
-  margin: 0 20%;
   background-color: aqua;
 }
 
@@ -173,13 +172,13 @@ nav a {
   display: inline-block;
   border: 1px solid black;
   font-size: 25px;
-  margin: 0 25%;
   background-color: darksalmon;
 }
-
+.titlea {
+  display: flex;
+}
 .title-image {
   display: inline-block;
-  margin: 0 50%;
   background-color: lightblue;
 }
 
